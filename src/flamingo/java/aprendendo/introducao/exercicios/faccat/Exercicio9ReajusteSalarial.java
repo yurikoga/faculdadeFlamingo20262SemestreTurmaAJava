@@ -11,13 +11,13 @@ Calcular e escrever o valor do novo salário. */
 		System.out.println("Digite o valor bruto do seu salário atual:");
 		float valorBrutoDoSalario = entradaDeDados.nextFloat();
 		System.out.println("Digite o percentual de reajuste:");
-		float percentualDeReajuste = entradaDeDados.nextByte();
+		float percentualDeReajuste = entradaDeDados.nextFloat();
 //		System.out.println(valorBrutoDoSalario);
 //		System.out.println(percentualDeReajuste);
 
-		float salarioReajustado = valorBrutoDoSalario+(valorBrutoDoSalario*(percentualDeReajuste/100));
+		float salarioReajustado = valorBrutoDoSalario+(valorBrutoDoSalario*(percentualDeReajuste/100.0f));
 
-		System.out.println("O Salário "+valorBrutoDoSalario);
+		System.out.printf("\nSalário anterior: %.2f\nPercentual de reajuste: %.2f%%\n\nSalário reajustado: %.2f",valorBrutoDoSalario,percentualDeReajuste,salarioReajustado);
 
 		entradaDeDados.close();
 	}

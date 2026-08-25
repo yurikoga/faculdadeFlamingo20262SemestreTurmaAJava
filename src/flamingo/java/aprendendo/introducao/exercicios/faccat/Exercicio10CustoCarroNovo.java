@@ -1,4 +1,5 @@
-package exercicios.faccat;/*10) O custo de um carro novo ao consumidor é a soma do custo de fábrica com a porcentagem do
+package exercicios.faccat;
+/*10) O custo de um carro novo ao consumidor é a soma do custo de fábrica com a porcentagem do
 distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que o percentual do distribuidor
 seja de 28% e os impostos de 45%, escrever um algoritmo para ler o custo de fábrica de um carro,
 calcular e escrever o custo final ao consumidor.*/
@@ -21,9 +22,19 @@ public class Exercicio10CustoCarroNovo {
 		float distribuidor = 28;
 		float impostos = 45;
 
-		float custoConsumidor = custoFabrica+(custoFabrica*(distribuidor/100))+(custoFabrica*(impostos/100));
+		/*
+		* custo de fabrica: 59000
+		* distribuidor:46000
+		* 100
+		*
+		* */
 
-		System.out.printf("Custo de Fábrica: %.2f\nDistribuidor: %.2f %%\nImpostos: %.2f %%\nO Valor final para o consumidor é de %.2f R$", custoFabrica, distribuidor, impostos, custoConsumidor);
+		float custoConsumidor = custoFabrica+custoFabrica*distribuidor/100+custoFabrica*impostos/100;
+
+		System.out.printf("\nCusto de Fábrica: %.2f\nDistribuidor: %.2f %%\nImpostos: %.2f %%\n\nO Valor final para o consumidor é de R$%.2f", custoFabrica, distribuidor, impostos, custoConsumidor);
+
+		sc.close();
+
 
 	}
 }
