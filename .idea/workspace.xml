@@ -5,15 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa94b54a-23a1-4e5e-9bd1-eb86430b9a94" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/basico/TiposNaoPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/exercicios/faccat/Exercicio13MediaDoAluno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/exercicios/faccat/Exercicio10CustoCarroNovo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/exercicios/faccat/Exercicio10CustoCarroNovo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/exercicios/faccat/Exercicio8PercentualDeEleitores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/exercicios/faccat/Exercicio8PercentualDeEleitores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/exercicios/faccat/Exercicio9ReajusteSalarial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/exercicios/faccat/Exercicio9ReajusteSalarial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/basico/TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/basico/TiposPrimitivos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Exercicio10CustoCarroNovo.executor": "Run",
+    "Application.Exercicio13MediaDoAluno.executor": "Run",
     "Application.Exercicio8PercentualDeEleitores.executor": "Run",
     "Application.Exercicio9ReajusteSalarial.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -50,7 +58,7 @@
     "ignore.preview.features.used": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "advanced.settings"
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion"
   }
 }]]></component>
   <component name="RecentsManager">
