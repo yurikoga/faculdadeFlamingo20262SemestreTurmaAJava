@@ -22,13 +22,6 @@ public class Exercicio10CustoCarroNovo {
 		float distribuidor = 28;
 		float impostos = 45;
 
-		/*
-		* custo de fabrica: 59000
-		* distribuidor:46000
-		* 100
-		*
-		* */
-
 		float custoConsumidor = custoFabrica+custoFabrica*distribuidor/100+custoFabrica*impostos/100;
 
 		System.out.printf("\nCusto de Fábrica: %.2f\nDistribuidor: %.2f %%\nImpostos: %.2f %%\n\nO Valor final para o consumidor é de R$%.2f", custoFabrica, distribuidor, impostos, custoConsumidor);

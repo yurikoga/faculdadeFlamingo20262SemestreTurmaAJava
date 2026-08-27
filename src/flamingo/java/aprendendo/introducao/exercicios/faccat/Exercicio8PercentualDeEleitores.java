@@ -39,9 +39,14 @@ public class Exercicio8PercentualDeEleitores {
 		*
 		* Casting para float: Multiplique a variável por 100.0f antes de realizar a divisão ou faça o casting (float) totalDeVotos / totalDeEleitores * 100.*/
 
-		float porcentagemDeVotosBrancos = totalDeVotosBrancos*100.0f/totalDeEleitores;
-		float porcentagemDeVotosNulos = totalDeVotosNulos*100.0f/totalDeEleitores;
-		float porcentagemDeVotosValidos = totalDeVotosValidos*100.0f/totalDeEleitores;
+		//No momento que a divisão for efetuada o resultado será inteiro, excluindo as casas decimais e considerando apenas a parte inteira que é 0(zero), sendo assim o resultado será zero com casas decimais zeradas. Para que isso não aconteça é necessário fazer um Widening Casting com o operador (float), dessa forma as casas decimais não são excluídas, sendo consideradas no resultado.
+		/*
+		* inteiro / inteiro = inteiro
+		* float / qualquer número = Float
+		* */
+		float porcentagemDeVotosBrancos = (float)totalDeVotosBrancos/totalDeEleitores*100;
+		float porcentagemDeVotosNulos = (float)totalDeVotosNulos/totalDeEleitores*100;
+		float porcentagemDeVotosValidos = (float)totalDeVotosValidos/totalDeEleitores*100;
 
 //		System.out.println("Percentuais adquiridos nessa eleição");
 //		System.out.printf("Votaram Branco: %.2f %%\n", porcentagemDeVotosBrancos);

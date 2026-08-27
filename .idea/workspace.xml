@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa94b54a-23a1-4e5e-9bd1-eb86430b9a94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/basico/TiposNaoPrimitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/exercicios/faccat/Exercicio13MediaDoAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/exercicios/faccat/Exercicio17MediaSimplesDoAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/exercicios/faccat/Exercicio18PermissaoParaVotar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/basico/TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/basico/TiposPrimitivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/exercicios/faccat/Exercicio13MediaDoAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/exercicios/faccat/Exercicio13MediaDoAluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/exercicios/faccat/Exercicio8PercentualDeEleitores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/exercicios/faccat/Exercicio8PercentualDeEleitores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,8 @@
   "keyToString": {
     "Application.Exercicio10CustoCarroNovo.executor": "Run",
     "Application.Exercicio13MediaDoAluno.executor": "Run",
+    "Application.Exercicio17MediaSimplesDoAluno.executor": "Run",
+    "Application.Exercicio7AlgoritmoDeIdade.executor": "Run",
     "Application.Exercicio8PercentualDeEleitores.executor": "Run",
     "Application.Exercicio9ReajusteSalarial.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -58,7 +61,7 @@
     "ignore.preview.features.used": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion"
+    "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -106,20 +109,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/exercicios/faccat/Exercicio8PercentualDeEleitores.java</url>
-          <line>4</line>
-          <properties class="exercicios.faccat.Exercicio8PercentualDeEleitores" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

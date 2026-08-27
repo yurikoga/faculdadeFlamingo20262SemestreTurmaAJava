@@ -10,11 +10,11 @@ public class Exercicio13MediaDoAluno {
         float primeiraNota, segundaNota, terceiraNota;
         System.out.println("Programa Media do Aluno");
         System.out.println("Digite a 1°nota do aluno:");
-        primeiraNota = sc.next();
+        primeiraNota = sc.nextFloat();
         System.out.println("Digite a 2°nota do aluno:");
-        segundaNota = sc.nextByte();
+        segundaNota = sc.nextFloat();
         System.out.println("Digite a 3°nota do aluno:");
-        terceiraNota = sc.nextByte();
+        terceiraNota = sc.nextFloat();
 
         float mediaFinal = (primeiraNota*2+segundaNota*3+terceiraNota*5)/10;
 
