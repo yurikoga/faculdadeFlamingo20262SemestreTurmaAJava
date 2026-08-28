@@ -16,11 +16,11 @@ public class Exercicio11CalculoDeCommisao {
 		System.out.println("Programa Cálculo de Comissao");
 		System.out.println("Digite o valor de seu Salário Fixo:");
 		float salarioFixo = sc.nextFloat();
-		System.out.println("Digite a quantidade de carros vendidos neste mês:");
-		short carrosVendidos = sc.nextShort();
 		System.out.println("Digite o valor da comissão por carro vendido:");
 		float valorDaComissaoIndividual = sc.nextFloat();
-		
+		System.out.println("Digite a quantidade de carros vendidos neste mês:");
+		short carrosVendidos = sc.nextShort();
+
 		float valorTotalDaComissao = carrosVendidos*valorDaComissaoIndividual;
 		
 		float bonus5porcento = valorTotalDaComissao*5/100.0f;
