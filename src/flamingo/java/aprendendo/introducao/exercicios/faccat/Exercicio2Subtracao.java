@@ -1,3 +1,5 @@
+package exercicios.faccat;
+
 import java.util.Scanner;
 
 public class Exercicio2Subtracao {

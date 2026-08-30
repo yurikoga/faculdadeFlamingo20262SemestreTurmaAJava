@@ -1,12 +1,12 @@
 package flamingo.java.aprendendo.introducao.basico;
 
 public class TiposPrimitivos {
-	//byte = -128 até 127
-	//short = -32.768 até 32.767
-	//int = -2.147.483.648 até 2.147.483.647
-	//long = -9.223.372.036.854.775.808 até 9.223.372.036.854.775.807 (64 bits)
-	//float = 32 bits (aprox. 6 a 7 dígitos decimais significativos)
-	//double = 64bits
+	//byte = -128 até 127 [centena] [8 bits] 2^7
+	//short = -32.768 até 32.767 [milhar] [16 bits] 2^15
+	//int = -2.147.483.648 até 2.147.483.647 [bilhões] [32 bits] 2^31
+	//long = -9.223.372.036.854.775.808 até 9.223.372.036.854.775.807 [quintilhões] [64 bits] 2^61
+	//float = 32 bits (até 7 dígitos decimais significativos) 2^31
+	//double = 64bits (até 16 dígitos decimais significativos)
 	//char = um caracter só
 	//boolean = verdadeiro ou falso
 
@@ -20,10 +20,7 @@ public class TiposPrimitivos {
 		char primeiraLetraDoNome = 'Y';
 		boolean isKoga = true;
 
-		String nome = "Yuri";
-		//String - é uma Classe, que pode ser divisível, pois é um conjunto de letras(char) que compõem uma palavra, ou seja, seguindo a hierarquia de as letras seriam objetos que estão dentro da classe palavra, que é igual a String
 
-		//teste
 
 	}
 }
