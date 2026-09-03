@@ -44,9 +44,9 @@ public class Exercicio8PercentualDeEleitores {
 		* inteiro / inteiro = inteiro
 		* float / qualquer número = Float
 		* */
-		float porcentagemDeVotosBrancos = (float)totalDeVotosBrancos/totalDeEleitores*100;
-		float porcentagemDeVotosNulos = (float)totalDeVotosNulos/totalDeEleitores*100;
-		float porcentagemDeVotosValidos = (float)totalDeVotosValidos/totalDeEleitores*100;
+		float porcentagemDeVotosBrancos = (float)totalDeVotosBrancos/totalDeEleitores*100f;
+		float porcentagemDeVotosNulos = (float)totalDeVotosNulos/totalDeEleitores*100f;
+		float porcentagemDeVotosValidos = (float)totalDeVotosValidos/totalDeEleitores*100f;
 
 //		System.out.println("Percentuais adquiridos nessa eleição");
 //		System.out.printf("Votaram Branco: %.2f %%\n", porcentagemDeVotosBrancos);
