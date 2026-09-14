@@ -10,6 +10,7 @@ public class Exercicio30ComparacaoEOrdemCrescente {
 		Scanner sc = new Scanner(System.in);
 		short[]valores = new short[3];
 		short valor1,valor2,valor3;
+		System.out.println("---PROGRAMA ORDEM CRESCENTE---");
 		for(byte vez = 0; vez < valores.length; vez++){
 			System.out.printf("Digite o %d° valor:",(vez+1));
 			valores[vez]=sc.nextShort();
@@ -42,7 +43,7 @@ public class Exercicio30ComparacaoEOrdemCrescente {
 				valor3=valores[1];
 			}
 		}
-		System.out.printf("1°valor: %d\n2°valor: %d\n3°valor: %d", valor1,valor2,valor3);
+		System.out.printf("\n1°valor: %d\n2°valor: %d\n3°valor: %d\n", valor1,valor2,valor3);
 		sc.close();
 	}
 }

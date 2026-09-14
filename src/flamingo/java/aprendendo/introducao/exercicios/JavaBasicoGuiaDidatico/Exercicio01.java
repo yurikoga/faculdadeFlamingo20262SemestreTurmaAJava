@@ -50,9 +50,15 @@ public class Exercicio01 {
 		}
 	}
 	public static boolean verificarNumero(String num){
+		//O num == null serve para verificar:
+			//Se o usuário não preenche um campo opcional, enviando null como padrão ou se o usuário cancela a ação, fecha a janela ou algo assim, retornando null como padrão
+			//Resumindo: Se o usuário deixou de preencher algo ou cancelou uma ação
+			//No caso do desenvolvedor ele verifica se a váriavel existe ou verifica se o dado que está sendo buscado existe.
 			if(num == null || num.equals("") ){
 				return false;
 			}else {
+				//num.length() contabiliza a quantidade de caracteres dentro de uma váriavel
+				//vez<num.length() cria um teste, se o valor de 'vez' for menor que
 				for (byte vez=0;vez<num.length();vez++){
 					char caracter=num.charAt(vez);
 					//tabela ASCII - '0'=48 e '9'=47
