@@ -1,4 +1,4 @@
-package flamingo.java.aprendendo.introducao.basico;
+package flamingo.java.aprendendo.introducao.aulasOnline;
 
 import java.time.LocalDate; //pegar a data atual
 import java.time.format.DateTimeFormatter; //formata o modelo da data

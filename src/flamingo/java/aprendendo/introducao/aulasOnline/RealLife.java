@@ -1,4 +1,4 @@
-package flamingo.java.aprendendo.introducao.basico;
+package flamingo.java.aprendendo.introducao.aulasOnline;
 
 public class RealLife {
 	static void main() {

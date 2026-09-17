@@ -1,4 +1,4 @@
-package flamingo.java.aprendendo.introducao.basico;
+package flamingo.java.aprendendo.introducao.aulasOnline;
 
 public class EstruturaDeDecisaoComposta {
 	public static void main(String[]args){
