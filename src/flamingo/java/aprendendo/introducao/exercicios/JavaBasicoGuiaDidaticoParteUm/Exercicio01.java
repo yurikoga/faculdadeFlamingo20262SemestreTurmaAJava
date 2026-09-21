@@ -1,7 +1,6 @@
-package flamingo.java.aprendendo.introducao.exercicios.JavaBasicoGuiaDidatico;
+package flamingo.java.aprendendo.introducao.exercicios.JavaBasicoGuiaDidaticoParteUm;
 //Exercício 01 - Tipos de dados
 //Crie a classe Exercicio01. Declare uma variável String para o nome de um aluno, int para a idade, double para a nota e boolean para informar se ele está matriculado. Exiba todos os valores.
-import java.sql.SQLOutput;
 import java.util.Scanner;
 public class Exercicio01 {
 	static void main(String[] args) {
