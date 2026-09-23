@@ -4,7 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa94b54a-23a1-4e5e-9bd1-eb86430b9a94" name="Changes" comment="" />
+    <list default="true" id="fa94b54a-23a1-4e5e-9bd1-eb86430b9a94" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/JavaBasicoGuiaDidaticoParteUm/Exercicio01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio10CustoCarroNovo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio11CalculoDeCommisao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio12ConversaoDeTemperatura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio13MediaDoAluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio14MaiorQueDez.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio15PositivoENegativo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio16Macas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio17MediaSimplesDoAluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio18_01PermissaoParaVotar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio18_02PermissaoParaVotar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio19MaiorQue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio1Soma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio20OrdemCrescente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio21HoraDoXadrez.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio22HorasExtras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio23ErrosNoPortuguesEstruturado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio24VendasEfetuadas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio25ContaDoCliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio26QuantidadeEmEstoque.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio27PositivoNegativoZero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio28ComparacaoDeValores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio29_1ComparacaoESoma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio29_2ComparacaoESoma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio29_3ComparacaoESoma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio2Subtracao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio30ComparacaoEOrdemCrescente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio31FormacaoDeTriangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio32DecisaoDePlacar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio33TresMensagens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio34TesteDeMesa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio35PostoDeCombustivel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio36SomaEProduroDeIdades.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio37Fruteira.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio38CodigoDoUsuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio3Multiplicacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio40Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio41MediaDeAproveitamento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio42QualificacaoAposentadoria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio43TesteDeMesa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio4Divisao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio5Antecessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio5_1Sucessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio6Retangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio7AlgoritmoDeIdade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio8PercentualDeEleitores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio9ReajusteSalarial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaManzano/exercicio07/L01A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaManzano/exercicio07/L01B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaManzano/exercicio07/L01C.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
