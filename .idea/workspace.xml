@@ -5,57 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa94b54a-23a1-4e5e-9bd1-eb86430b9a94" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/aulaPresencialJailson/ExemploBreak01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/aulaPresencialJailson/ExemploBreakWhile01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/aulaPresencialJailson/ExemploContinue01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/aulaPresencialJailson/ExemploContinueBreak01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/aulaPresencialJailson/ExemploContinueBreakForEach01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/aulaPresencialJailson/ExemploContinueWhile01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/aulaPresencialJailson/ExemploForEach01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/aulasOnline/aulasJavaAwt/ExemploAWT1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/aulasOnline/aulasJavaAwt/ExemploAWT2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/aulasOnline/aulasJavaAwt/javaAwt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/JavaBasicoGuiaDidaticoParteUm/Exercicio01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio10CustoCarroNovo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio11CalculoDeCommisao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio12ConversaoDeTemperatura.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio13MediaDoAluno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio14MaiorQueDez.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio15PositivoENegativo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio16Macas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio17MediaSimplesDoAluno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio18_01PermissaoParaVotar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio18_02PermissaoParaVotar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio19MaiorQue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio1Soma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio20OrdemCrescente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio21HoraDoXadrez.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio22HorasExtras.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio23ErrosNoPortuguesEstruturado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio24VendasEfetuadas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio25ContaDoCliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio26QuantidadeEmEstoque.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio27PositivoNegativoZero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio28ComparacaoDeValores.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio29_1ComparacaoESoma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio29_2ComparacaoESoma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio29_3ComparacaoESoma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio2Subtracao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio30ComparacaoEOrdemCrescente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio31FormacaoDeTriangulo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio32DecisaoDePlacar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio33TresMensagens.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio34TesteDeMesa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio35PostoDeCombustivel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio36SomaEProduroDeIdades.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio37Fruteira.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio38CodigoDoUsuario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio3Multiplicacao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio40Produto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio41MediaDeAproveitamento.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio42QualificacaoAposentadoria.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio43TesteDeMesa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio4Divisao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio5Antecessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio5_1Sucessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio6Retangulo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio7AlgoritmoDeIdade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio8PercentualDeEleitores.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaFaccat/Exercicio9ReajusteSalarial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaManzano/exercicio07/L01A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaManzano/exercicio07/L01B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flamingo/java/exercicios/apostilaManzano/exercicio07/L01C.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/aulaPresencialJailson/Cronometro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/aulaPresencialJailson/ExemploForCronometro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/aulaPresencialJailson/Temporizador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/aulaPresencialJailson/ExemploForTemporizador.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,73 +57,79 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Cronometro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EstruturaDeDecisaoSimples.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExemploNarrowingCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExemploWhile01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExemploWhile02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExemploWideningCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio10CustoCarroNovo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio13MediaDoAluno.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio14MaiorQueDez.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio17MediaSimplesDoAluno.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio18PermissaoParaVotar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio19MaiorQue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio20OrdemCrescente.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio21HoraDoXadrez.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio22HorasExtras.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio24VendasEfetuadas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio25ContaDoCliente.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio26QuantidadeEmEstoque.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio27PositivoNegativoZero.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio28ComparacaoDeValores.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio29ComparacaoESoma.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio29_1ComparacaoESoma.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio29_2ComparacaoESoma.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio29_3ComparacaoESoma.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio30ComparacaoEOrdemCrescente.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio31FormacaoDeTriangulo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio32DecisaoDePlacar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio33TresMensagens.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio35PostoDeCombustivel.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio36SomaEProduroDeIdades.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio37Fruteira.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio38CodigoDoUsuario.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio40Produto.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio41MediaDeAproveitamento.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio42QualificacaoAposentadoria.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio43TesteDeMesa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio7AlgoritmoDeIdade.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio8PercentualDeEleitores.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio9ReajusteSalarial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.L01A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.L01B.executor&quot;: &quot;Run&quot;,
-    &quot;Application.L01C.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MetodoDeVerificacaoDeNumeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Temporizador.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrador/IdeaProjects/java2Semestre2026/src/flamingo/java/aprendendo/introducao/exercicios&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AprendendoBreak01.executor": "Run",
+    "Application.Cronometro.executor": "Run",
+    "Application.EstruturaDeDecisaoSimples.executor": "Run",
+    "Application.ExemploAWT1.executor": "Run",
+    "Application.ExemploAWT2.executor": "Run",
+    "Application.ExemploContinueBreak01.executor": "Run",
+    "Application.ExemploContinueBreakWhile01.executor": "Run",
+    "Application.ExemploForEach01.executor": "Run",
+    "Application.ExemploNarrowingCasting.executor": "Run",
+    "Application.ExemploWhile01.executor": "Run",
+    "Application.ExemploWhile02.executor": "Run",
+    "Application.ExemploWideningCasting.executor": "Run",
+    "Application.Exercicio01.executor": "Run",
+    "Application.Exercicio10CustoCarroNovo.executor": "Run",
+    "Application.Exercicio13MediaDoAluno.executor": "Run",
+    "Application.Exercicio14MaiorQueDez.executor": "Run",
+    "Application.Exercicio17MediaSimplesDoAluno.executor": "Run",
+    "Application.Exercicio18PermissaoParaVotar.executor": "Run",
+    "Application.Exercicio19MaiorQue.executor": "Run",
+    "Application.Exercicio20OrdemCrescente.executor": "Run",
+    "Application.Exercicio21HoraDoXadrez.executor": "Run",
+    "Application.Exercicio22HorasExtras.executor": "Run",
+    "Application.Exercicio24VendasEfetuadas.executor": "Run",
+    "Application.Exercicio25ContaDoCliente.executor": "Run",
+    "Application.Exercicio26QuantidadeEmEstoque.executor": "Run",
+    "Application.Exercicio27PositivoNegativoZero.executor": "Run",
+    "Application.Exercicio28ComparacaoDeValores.executor": "Run",
+    "Application.Exercicio29ComparacaoESoma.executor": "Run",
+    "Application.Exercicio29_1ComparacaoESoma.executor": "Run",
+    "Application.Exercicio29_2ComparacaoESoma.executor": "Run",
+    "Application.Exercicio29_3ComparacaoESoma.executor": "Run",
+    "Application.Exercicio30ComparacaoEOrdemCrescente.executor": "Run",
+    "Application.Exercicio31FormacaoDeTriangulo.executor": "Run",
+    "Application.Exercicio32DecisaoDePlacar.executor": "Run",
+    "Application.Exercicio33TresMensagens.executor": "Run",
+    "Application.Exercicio35PostoDeCombustivel.executor": "Run",
+    "Application.Exercicio36SomaEProduroDeIdades.executor": "Run",
+    "Application.Exercicio37Fruteira.executor": "Run",
+    "Application.Exercicio38CodigoDoUsuario.executor": "Run",
+    "Application.Exercicio40Produto.executor": "Run",
+    "Application.Exercicio41MediaDeAproveitamento.executor": "Run",
+    "Application.Exercicio42QualificacaoAposentadoria.executor": "Run",
+    "Application.Exercicio43TesteDeMesa.executor": "Run",
+    "Application.Exercicio7AlgoritmoDeIdade.executor": "Run",
+    "Application.Exercicio8PercentualDeEleitores.executor": "Run",
+    "Application.Exercicio9ReajusteSalarial.executor": "Run",
+    "Application.L01A.executor": "Run",
+    "Application.L01B.executor": "Run",
+    "Application.L01C.executor": "Run",
+    "Application.MetodoDeVerificacaoDeNumeros.executor": "Run",
+    "Application.Temporizador.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.preview.features.used": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Administrador/IdeaProjects/java2Semestre2026/src/flamingo/java/aprendendo/introducao/exercicios",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "Errors"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrador\IdeaProjects\java2Semestre2026\src\flamingo\java\aprendendo\introducao\exercicios" />
@@ -171,6 +139,7 @@
       <recent name="C:\Users\aluno\IdeaProjects\faculdadeFlamingo20262SemestreTurmaAJava\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="flamingo.java.aprendendo.introducao.aulaPresencialJailson" />
       <recent name="flamingo.java.aprendendo.introducao.aulaPresencial" />
       <recent name="flamingo.java.aprendendo.introducao.basico" />
       <recent name="flamingo.java.aprendendo.introducao.exercicios.faccat" />
